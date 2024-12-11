@@ -1,0 +1,2 @@
+# AllegroAdminDocs
+Documentation for AllegroAdmin.
