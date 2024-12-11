@@ -1,4 +1,6 @@
-# Syntax
+# AllegroAdmin
+
+[![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2F07795dc0-919b-45a4-974e-a4b0cd1b8ddb&style=plastic)](https://forge.laravel.com/servers/210248/sites/2557843)
 
 Syntax is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
